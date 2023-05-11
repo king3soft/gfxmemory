@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2459051699
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test
+      Dependencies:
+        Dependency_0: rgba
+        Dependency_1: rgb
+        Dependency_2: astc
+    Info_1:
+      Name: rgba
+      Dependencies: {}
+    Info_2:
+      Name: rgb
+      Dependencies: {}
+    Info_3:
+      Name: astc
+      Dependencies: {}
